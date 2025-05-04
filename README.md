@@ -1,8 +1,6 @@
-# Capt Rong
-
-## About me
-
-I am an inventor out of curiosity
+<p align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN2eGg3amM1enpxcXV2YjVjNTQxNHk2M2RtN3YweHozaTRrNjJtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I5zzHMlThCP8jNEVNu/giphy.gif">
+</p>
 
 
 
