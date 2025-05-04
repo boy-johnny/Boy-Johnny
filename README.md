@@ -1,4 +1,12 @@
-## Hi there 👋
+# Capt Rong
+
+## About me
+
+I am an inventor out of curiosity
+
+
+
+
 
 <!--
 **Capt-Rong/Capt-Rong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
