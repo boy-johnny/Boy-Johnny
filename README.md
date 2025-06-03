@@ -1,5 +1,8 @@
+![Gooda](GOODA.png)
+
 <h1 align="center">Hi 👋, I'm Johnny Boy</h1>
 <h3 align="center">The founder of GOODA, and a passionate frontend developer</h3>
+
 
 
 <br/>
