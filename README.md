@@ -36,13 +36,13 @@
 
 <div>
   <strong>Back-end</strong>
-  <a href="https://nodejs.com/" target="_blank" ref="noreferrer"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" alt="node" width="40" height="40" /> </a>
+  <a href="https://nodejs.org/" target="_blank" ref="noreferrer"><img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" alt="node" width="40" height="40" /> </a>
 </div>
 
 <div>
   <strong>Database</strong>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://www.supabase.con" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.supabase.com" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/KVjptxDSWT7rjVfGax2TgTNVAYgplgo1z_fwaV3MFjPpcmNVZC0TIgQV030BPJ0ybCP3_Fz-2w=s900-c-k-c0x00ffffff-no-rj" alt="postgresql" width="40" height="40"/> </a>
 </div>
 
 <div>
